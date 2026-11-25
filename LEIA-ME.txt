@@ -1,0 +1,18 @@
+SADOCHE — CARDÁPIO DIGITAL (DEMONSTRAÇÃO)
+
+Arquivos:
+- index.html
+- style.css
+- script.js
+- assets/sadoche-entrada.mp4
+- assets/camaroes-destaque.png
+
+IMPORTANTE ANTES DE PUBLICAR:
+1. Os pratos, descrições e preços no script.js são ilustrativos e precisam ser confirmados/substituídos pelo restaurante.
+2. O telefone usado no WhatsApp é 5584988002244, informado durante a conversa. Confirme que recebe pedidos.
+3. A entrega está marcada como sujeita à disponibilidade; confirme se o restaurante entrega.
+4. Confirme endereço e horário de funcionamento.
+5. Confirme autorização para usar as imagens e o vídeo.
+
+COMO TESTAR:
+Abra index.html em um navegador. Para publicar, envie os arquivos e a pasta assets para a raiz do repositório GitHub conectado ao Vercel.
